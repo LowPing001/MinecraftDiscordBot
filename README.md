@@ -1,4 +1,4 @@
-# mcstatusbot
+# MinecraftDiscordBot
 ### Discord bot for server status
 
 :warning: For settings, please edit `config.json`. 
